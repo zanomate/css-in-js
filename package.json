@@ -1,5 +1,5 @@
 {
-  "name": "css-in-js",
+  "name": "style-in-js",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zanomate/css-in-js.git"
+    "url": "git+https://github.com/zanomate/style-in-js.git"
   },
   "author": "zanomate",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zanomate/css-in-js/issues"
+    "url": "https://github.com/zanomate/style-in-js/issues"
   },
-  "homepage": "https://github.com/zanomate/css-in-js#readme"
+  "homepage": "https://github.com/zanomate/style-in-js#readme"
 }
