@@ -1,9 +1,5 @@
-export * from 'src/css';
-export * from 'src/utils/generic';
-export * from 'consants';
-export * from 'data-types';
-export * from 'properties';
+export * from 'lib';
 
-exports.printMsg = function() {
-    console.log('package under construction');
-};
+// exports.printMsg = function() {
+//     console.log('package under construction');
+// };
